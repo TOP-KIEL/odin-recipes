@@ -1,0 +1,61 @@
+.whole {
+    background-color: rgb(199, 126, 134);
+}
+
+.head {
+        border-radius: 10%;
+        background: #79373a;
+        padding: 5px;
+        width: auto;
+        height: auto;
+        border-style: solid;
+}
+
+.heading {
+    text-align: center;
+    border-style: solid;
+    border-radius: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-color: beige;
+}
+
+#img-hotdog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-style: solid;
+    border-radius: 10%;
+    border-color: beige;
+}
+
+.paragraph {
+    text-align: justify;
+    font-size: large;
+}
+
+.headog {
+    text-align: center;
+    font-size: larger;
+}
+
+.Ingredients {
+    border-radius: 10%;
+    background: #ce9295;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    border-style: solid;
+}
+
+.Steps {
+    border-style: solid;
+    border-radius: 10%;
+}
+
+.Hotstep {
+    text-align: center;
+    font-size: larger;
+}
